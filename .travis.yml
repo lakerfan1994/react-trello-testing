@@ -7,8 +7,6 @@ env:
 - CI=true
 deploy:
   provider: heroku
-  api_key:
-    secure: F9ZKE4mOWaR9yTTx+cdXeGgd/7aw1psaDasA+WqHbhBh98aCqhHsaMWCOAs0Z+G15zVwVG+d+JMm3Nio6FFnL9unQZTPH4fWejZdw8VVoFSBcTQEUKMYeD8O7+t4YBhBMrmwY5W3zRuw2XjD6rw/X29WPH4ShYfKEjp9NX5RVX8jB06tApHXg/5sjL5+ee3UY7szQ4xUbBekDr8Yl5mknWkx96Q4MijXOUB2mSyrAOy43n3AtNnLbKUY1xX844VbLmxamw2QvfxKkWIxFn8FXG6jJmpL3FdizqrvrL61CT/og0ROpXasFDLWqYMRBX6+4MyT8y7OroxiF+YiioGuUvS9srJfPMzOx86L2DQXhSmxZ2TiYXqYDhU+nwO8Ow7TeekaGDgg/HbllokvRLkFGjZWmSyGI06dhFXC80E/DCmP7Xf1HfBpqhoA0phQgOUSJ9Dem9gnIMlIx6eog/duirqNLcEQhPKWHmDxa2UmsJ1QvasoXsf8NTI98wBxqk1GbTmks24VL9tbLX0o0dPqqFIGpfEBWxXVi1VJLJDOb4uaMCH1P0SgkALKS/bA1RPFxoQ3frOYKl71b1Lly5IAzJNgHkmVQPB6X5aZYf3CsDpJ+ON5eAaDs335qzYnMQFBKjFaiEGS1fUzS67z/2SVtObtMG4ZSeRKLvw6u227xg4=
   app: shrouded-plains-20805
   on:
     repo: lakerfan1994/react-trello-testing
